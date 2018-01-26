@@ -1,5 +1,7 @@
 # 设计模式
 
+> 本开源书 forked from [设计模式](https://github.com/quanke/design-pattern-java)，作者为 [quanke](https://github.com/quanke)，欢迎大家 star 原作者的 [repo](https://github.com/quanke/design-pattern-java)，以便获得最新更新，谢谢！
+
 Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关的文章，涵盖了七个面向对象设计原则和24个设计模式（23个GoF设计模式 +  简单工厂模式），为了方便大家学习，http://quanke.name 现将所有文章的进行了整理，方便大家下载阅读，希望能给各位带来帮助！
 
 
